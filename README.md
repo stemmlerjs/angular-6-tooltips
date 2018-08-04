@@ -1,5 +1,11 @@
 # Ng6Proj
 
+## About
+
+Starter Angular project to learn Angular 6. Follow this Angular 6 tutorial.
+[https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
